@@ -1,1 +1,2 @@
-git is
+git is 
+git log --pretty=oneline
