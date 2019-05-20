@@ -1,3 +1,4 @@
 git is 
 git log --pretty=oneline
 git sfa
+giydfa
